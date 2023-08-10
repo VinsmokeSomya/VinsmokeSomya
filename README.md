@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Game Development<br>🎯 Goals: Cloud Gaming Engineer<br>🎲 Fun fact:</p>
+<p align="left">I Can't Tell You...</p>
 
 ###
 
