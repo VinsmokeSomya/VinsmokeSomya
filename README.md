@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">I can code with</h2>
+<h2 align="left">I can code with...</h2>
 
 ###
 
@@ -44,6 +44,7 @@
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
 </div>
 
 ###
