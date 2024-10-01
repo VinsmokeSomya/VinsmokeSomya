@@ -72,7 +72,7 @@
 
 ###
 
-<h2 align="left">Softwers</h2>
+<h2 align="left">Softwares</h2>
 
 ###
 
