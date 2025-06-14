@@ -17,8 +17,8 @@
 <pre style="font-size:14px; line-height:1.35;"><code>Name: Vinsmoke Somya
 Class: Game Dev / Cloud Engineer
 Level: 007 (XP 21,340/25,000)
-HP:  ♥ ♥ ♥ ♥ ♥ 100%
-MP:  ♦♦♦♦♦♦♦♦◊◊ 80%
+HP:  ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ 100%
+MP:  ♦ ♦ ♦ ♦ ♦ ♦ ♦ ♦ ◊ ◊ 80%
 
 STR 💪: 17
 POW ⚡: 18
