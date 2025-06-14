@@ -64,37 +64,80 @@ Status: Questing for Dream Game...
     <td align="center" width="33%">
       <h4>Languages</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=cpp,cs,py,go" />
+        <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,go" />
       </p>
     </td>
     <td align="center" width="33%">
       <h4>Game Engines</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=unity,unreal" />
+        <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
       </p>
     </td>
     <td align="center" width="33%">
       <h4>Cloud & DevOps</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,kubernetes" />
+        <img src="https://skillicons.dev/icons?i=azure,gcp,aws" />
       </p>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <h4>Tools</h4>
+      <h4>Frameworks &amp; Libraries</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=firebase,linux,powershell,bash,vscode,git,github" />
+        <img src="https://skillicons.dev/icons?i=svelte" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4>Shell &amp; IDEs</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vscode,visualstudio" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4>Version Control</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h4>Collaboration &amp; Docs</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=discord,notion" />
       </p>
     </td>
     <td align="center" width="33%">
       <h4>Software</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=blender,ai,ae,ps,figma" />
+        <img src="https://skillicons.dev/icons?i=blender,ai,ps,ae,figma" />
       </p>
     </td>
     <td align="center" width="33%">
-        <!-- Empty cell for alignment -->
+      <h4>Databases & Messaging</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,rabbitmq" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h4>Monitoring & CI/CD</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=grafana,prometheus,githubactions,jenkins" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4>BaaS & Platforms</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=firebase,supabase,heroku" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4>Containers &amp; IaC</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform" />
+      </p>
     </td>
   </tr>
 </table>
