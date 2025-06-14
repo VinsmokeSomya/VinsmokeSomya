@@ -4,7 +4,6 @@
   — भगवद् गीता 2.47 🚩</blockquote>
 </div>
 
----
 
 <div align="center">
   <h1>Vinsmoke Somya</h1>
