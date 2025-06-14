@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/profile-readme-banner.png" alt="cover" />
-</p>
+<div>
+<blockquote align="center">"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन"<br/>
+  <em>"You have the right to work, but never to its fruits."</em><br/>
+  — भगवद् गीता 2.47 🚩</blockquote>
+</div>
+
+---
 
 <div align="center">
   <h1>Vinsmoke Somya</h1>
@@ -27,7 +31,7 @@ Status: Questing for Dream Game...
     </td>
     <td align="center" width="50%">
       <img src="https://avatars.githubusercontent.com/u/117063787?s=400&u=d9c829024d001cf7ab4c61242656c1972900ef00&v=4" width="200px" alt="Vinsmoke Somya"/>
-      
+      <br/><br/>
   </tr>
 </table>
 
