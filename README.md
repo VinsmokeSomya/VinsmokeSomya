@@ -38,8 +38,8 @@ Status: Questing for Dream Game...
 <h3 align="center">Connect With Me</h3>
 <p align="center">
   <!-- Add your social links here, for example: -->
-  <a href="https://linkedin.com/in/your_username" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="your_username" height="30" width="40" /></a>
-  <a href="https://twitter.com/your_username" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="your_username" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/somanath007-dalavi/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="somanath007-dalavi" height="30" width="40" /></a>
+  <a href="https://x.com/somanath007_d" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="somanath007_d" height="30" width="40" /></a>
 </p>
 
 ---
