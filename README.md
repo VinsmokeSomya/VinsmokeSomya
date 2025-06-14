@@ -1,108 +1,105 @@
-<h1 align="left">Yo! , I'm Vinsmoke Somya</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/profile-readme-banner.png" alt="cover" />
+</p>
 
-###
-
-<p align="left">I'm done! No more Dreaming..!</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<img align="right" height="400" src="https://avatars.githubusercontent.com/u/117063787?s=400&u=d9c829024d001cf7ab4c61242656c1972900ef00&v=4"  />
-
-###
-
-<p align="left">I Can't Tell You😂😂...</p>
-<p align="left">Go to my Organization:
-<a href="https://github.com/Dumb-Kid-Root">Dumb Kid Root</a>
-
-
-###
-
-<h2 align="left">I can code with...</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+<div align="center">
+  <h1>Vinsmoke Somya</h1>
+  <i>I'm done! No more Dreaming..!</i>
 </div>
 
-###
+<table align="center">
+  <tr>
+    <td align="left" width="50%">
+      <h3 align="center"><code>[ PLAYER STATS ]</code></h3>
+<pre><code>Name: Vinsmoke Somya
+Class: Game Developer / Cloud Engineer
+Level: 007
+Location: The Interwebs
 
-<h2 align="left">Game Engine</h2>
+Guild: "Dumb Kid Root"
+Status: Dreaming of code...
+</code></pre>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://avatars.githubusercontent.com/u/117063787?s=400&u=d9c829024d001cf7ab4c61242656c1972900ef00&v=4" width="200px" alt="Vinsmoke Somya"/>
+    </td>
+  </tr>
+</table>
 
-###
+<h3 align="center">Connect With Me</h3>
+<p align="center">
+  <!-- Add your social links here, for example: -->
+  <a href="https://linkedin.com/in/your_username" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="your_username" height="30" width="40" /></a>
+  <a href="https://twitter.com/your_username" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="your_username" height="30" width="40" /></a>
+</p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
+---
+
+<h3 align="center">📜 Active Bounties 📜</h3>
+<p align="center">
+  I'm currently seeking collaborators for the following quests:
+  <br/><br/>
+  🛠️ Building awesome open-source game dev tools.
+  <br/>
+  🎮 Creating immersive worlds in Unreal or Unity.
+  <br/>
+  ☁️ Exploring the frontier of cloud gaming.
+</p>
+
+---
+
+<h3 align="center">My Tech Stack</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h4>Languages</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=cpp,cs,py,go" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4>Game Engines</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=unity,unreal" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4>Cloud & DevOps</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,kubernetes" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h4>Tools</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=firebase,linux,powershell,bash,vscode,git,github" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4>Software</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=blender,ai,ae,ps,figma" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+        <!-- Empty cell for alignment -->
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">GitHub Statistics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinsmokesomya&show_icons=true&locale=en&layout=compact&theme=radical" alt="vinsmokesomya" />
+</p>
+
+
+---
+
+<div align="center">
+  🚩🧡🕉️ || जय श्री राम || 🕉️🧡🚩
 </div>
-
-###
-
-<h2 align="left">Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-<h2 align="left">Softwares</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<h2 align="left">Cloud Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-</div>
-
-###
