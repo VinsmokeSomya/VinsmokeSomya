@@ -4,16 +4,17 @@
   — भगवद् गीता 2.47 🚩</blockquote>
 </div>
 
+---
 
 <div align="center">
   <h1>Vinsmoke Somya</h1>
   <i>I'm done! No more Dreaming..!</i>
 </div>
 <h3 align="center"><code>[ PLAYER STATS ]</code></h3>
-<table align="center">
+<table align="center" style="width:80%;">
   <tr>
-    <td align="left" width="50%">
-<pre><code>Name: Vinsmoke Somya
+    <td align="left" width="60%">
+<pre style="font-size:14px; line-height:1.35;"><code>Name: Vinsmoke Somya
 Class: Game Dev / Cloud Engineer
 Level: 007 (XP 21,340/25,000)
 HP:  ♥ ♥ ♥ ♥ ♥ 100%
@@ -28,8 +29,8 @@ LUCK 🍀: 13
 Status: Questing for Dream Game...
 </code></pre>
     </td>
-    <td align="center" width="50%">
-      <img src="https://avatars.githubusercontent.com/u/117063787?s=400&u=d9c829024d001cf7ab4c61242656c1972900ef00&v=4" width="200px" alt="Vinsmoke Somya"/>
+    <td align="center" width="40%">
+      <img src="https://avatars.githubusercontent.com/u/117063787?s=400&u=d9c829024d001cf7ab4c61242656c1972900ef00&v=4" width="250px" alt="Vinsmoke Somya"/>
       <br/><br/>
   </tr>
 </table>
