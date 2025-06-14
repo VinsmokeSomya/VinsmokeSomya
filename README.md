@@ -6,23 +6,28 @@
   <h1>Vinsmoke Somya</h1>
   <i>I'm done! No more Dreaming..!</i>
 </div>
-
+<h3 align="center"><code>[ PLAYER STATS ]</code></h3>
 <table align="center">
   <tr>
     <td align="left" width="50%">
-      <h3 align="center"><code>[ PLAYER STATS ]</code></h3>
 <pre><code>Name: Vinsmoke Somya
-Class: Game Developer / Cloud Engineer
-Level: 007
-Location: The Interwebs
+Class: Game Dev / Cloud Engineer
+Level: 007 (XP 21,340/25,000)
+HP:  ♥ ♥ ♥ ♥ ♥ 100%
+MP:  ♦♦♦♦♦♦♦♦◊◊ 80%
 
-Guild: "Dumb Kid Root"
-Status: Dreaming of code...
+STR 💪: 17
+POW ⚡: 18
+DEX 🦅: 15   
+INT 🧠: 20   
+LUCK 🍀: 13
+
+Status: Questing for Dream Game...
 </code></pre>
     </td>
     <td align="center" width="50%">
       <img src="https://avatars.githubusercontent.com/u/117063787?s=400&u=d9c829024d001cf7ab4c61242656c1972900ef00&v=4" width="200px" alt="Vinsmoke Somya"/>
-    </td>
+      
   </tr>
 </table>
 
