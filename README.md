@@ -1,3 +1,9 @@
+<div align="center">
+  🚩🧡🕉️ || जय श्री राम || 🕉️🧡🚩
+</div>
+
+---
+
 <div>
 <blockquote align="center">"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन"<br/>
   <em>"You have the right to work, but never to its fruits."</em><br/>
@@ -148,10 +154,3 @@ Status: Questing for Dream Game...
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinsmokesomya&show_icons=true&locale=en&layout=compact&theme=radical" alt="vinsmokesomya" />
 </p>
-
-
----
-
-<div align="center">
-  🚩🧡🕉️ || जय श्री राम || 🕉️🧡🚩
-</div>
