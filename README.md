@@ -90,7 +90,7 @@ Status: Questing for Dream Game...
     <td align="center" width="33%">
       <h4>Frameworks &amp; Libraries</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=svelte" />
+        <img src="https://skillicons.dev/icons?i=svelte,graphql" />
       </p>
     </td>
     <td align="center" width="33%">
@@ -110,7 +110,7 @@ Status: Questing for Dream Game...
     <td align="center" width="33%">
       <h4>Collaboration &amp; Docs</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=discord,notion" />
+        <img src="https://skillicons.dev/icons?i=discord,notion,markdown" />
       </p>
     </td>
     <td align="center" width="33%">
@@ -120,17 +120,38 @@ Status: Questing for Dream Game...
       </p>
     </td>
     <td align="center" width="33%">
-      <h4>Databases & Messaging</h4>
+      <h4>Databases</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,rabbitmq" />
+        <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb" />
       </p>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <h4>Monitoring & CI/CD</h4>
+      <h4>Messaging & Streaming</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=grafana,prometheus,githubactions,jenkins" />
+        <img src="https://skillicons.dev/icons?i=rabbitmq,kafka" />
+        <img src="./icons/Apache-Spark.svg" alt="Apache Spark" height="48" width="48"/>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4>Monitoring</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4>CI/CD</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h4>Containers &amp; IaC</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform" />
       </p>
     </td>
     <td align="center" width="33%">
@@ -140,9 +161,13 @@ Status: Questing for Dream Game...
       </p>
     </td>
     <td align="center" width="33%">
-      <h4>Containers &amp; IaC</h4>
+      <h4>AI & Machine Learning</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform" />
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+        <br/>
+        <img src="./icons/huggingface-color.svg" alt="Hugging Face" height="40" width="40"/>
+        <img src="./icons/langchain.svg" alt="LangChain" height="40" width="40"/>
+        <img src="./icons/langgraph.svg" alt="LangGraph" height="40" width="40"/>
       </p>
     </td>
   </tr>
