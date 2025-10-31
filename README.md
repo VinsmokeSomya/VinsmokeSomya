@@ -124,7 +124,6 @@ Status: Questing for Dream Game...
       <p>
         <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb" />
         <img src="./icons/Microsoft_SQL_Server_2025.svg" alt="MS SQL Server" height="48" width="48"/>
-        <img src="./icons/Weaviate DB.png" alt="Weaviate" height="48" width="48"/>
       </p>
     </td>
   </tr>
