@@ -123,6 +123,8 @@ Status: Questing for Dream Game...
       <h4>Databases</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb" />
+        <img src="./icons/Microsoft_SQL_Server_2025.svg" alt="MS SQL Server" height="48" width="48"/>
+        <img src="./icons/Weaviate DB.png" alt="Weaviate" height="48" width="48"/>
       </p>
     </td>
   </tr>
@@ -166,6 +168,7 @@ Status: Questing for Dream Game...
         <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
         <br/>
         <img src="./icons/huggingface-color.svg" alt="Hugging Face" height="40" width="40"/>
+        <img src="./icons/LlamaIndex.png" alt="LlamaIndex" height="40" width="40"/>
         <img src="./icons/langchain.svg" alt="LangChain" height="40" width="40"/>
         <img src="./icons/langgraph.svg" alt="LangGraph" height="40" width="40"/>
       </p>
