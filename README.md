@@ -70,7 +70,7 @@ Status: Questing for Dream Game...
     <td align="center" width="33%">
       <h4>Languages</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,go" />
+        <img src="https://skillicons.dev/icons?i=cpp,cs,py" />
       </p>
     </td>
     <td align="center" width="33%">
