@@ -83,7 +83,7 @@ Status: Questing for Dream Game...
       <h4>Pixel & 2D</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=ai,ps" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" alt="Aseprite" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" alt="Aseprite" width="50" height="50" />
       </p>
     </td>
   </tr>
