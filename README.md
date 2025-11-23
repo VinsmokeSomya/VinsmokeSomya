@@ -68,35 +68,58 @@ Status: Questing for Dream Game...
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h4>Languages</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=cpp,cs,py" />
-      </p>
-    </td>
-    <td align="center" width="33%">
       <h4>Game Engines</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
       </p>
     </td>
     <td align="center" width="33%">
-      <h4>Cloud & DevOps</h4>
+      <h4>Languages</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=azure,gcp,aws" />
+        <img src="https://skillicons.dev/icons?i=cpp,cs,py" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4>2D & Design</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ai,ps" />
       </p>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <h4>Frameworks &amp; Libraries</h4>
+      <h4>3D & Animation</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=svelte,graphql" />
+        <img src="https://skillicons.dev/icons?i=blender" />
       </p>
     </td>
     <td align="center" width="33%">
-      <h4>Shell &amp; IDEs</h4>
+      <h4>Audio & Video</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vscode,visualstudio" />
+        <img src="https://skillicons.dev/icons?i=pr,au" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4>VFX & Simulation</h4>
+      <p>
+        <img src="https://jangafx.com/media/images/logos/embergen.svg" alt="EmberGen" height="40" />
+        <img src="https://jangafx.com/media/images/logos/liquigen.svg" alt="LiquiGen" height="40" />
+        <img src="https://jangafx.com/media/images/logos/illugen.svg" alt="IlluGen" height="40" />
+        <img src="https://jangafx.com/media/images/logos/geogen.svg" alt="GeoGen" height="40" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h4>IDEs</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4>Collaboration &amp; Docs</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=discord,notion,obsidian,markdown" />
       </p>
     </td>
     <td align="center" width="33%">
@@ -108,68 +131,21 @@ Status: Questing for Dream Game...
   </tr>
   <tr>
     <td align="center" width="33%">
-      <h4>Collaboration &amp; Docs</h4>
+      <h4>Shell</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=discord,notion,markdown" />
+        <img src="https://skillicons.dev/icons?i=linux,bash,powershell" />
       </p>
     </td>
     <td align="center" width="33%">
-      <h4>Software</h4>
+      <h4>Cloud & DevOps</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=blender,ai,ps,ae,figma" />
+        <img src="https://skillicons.dev/icons?i=firebase" />
       </p>
     </td>
     <td align="center" width="33%">
       <h4>Databases</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb" />
-        <img src="./icons/Microsoft_SQL_Server_2025.svg" alt="MS SQL Server" height="48" width="48"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h4>Messaging & Streaming</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=rabbitmq,kafka" />
-        <img src="./icons/Apache-Spark.svg" alt="Apache Spark" height="48" width="48"/>
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h4>Monitoring</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h4>CI/CD</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h4>Containers &amp; IaC</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform" />
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h4>BaaS & Platforms</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=firebase,supabase,heroku" />
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h4>AI & Machine Learning</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-        <br/>
-        <img src="./icons/huggingface-color.svg" alt="Hugging Face" height="40" width="40"/>
-        <img src="./icons/LlamaIndex.png" alt="LlamaIndex" height="40" width="40"/>
-        <img src="./icons/langchain.svg" alt="LangChain" height="40" width="40"/>
-        <img src="./icons/langgraph.svg" alt="LangGraph" height="40" width="40"/>
       </p>
     </td>
   </tr>
