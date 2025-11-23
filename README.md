@@ -80,9 +80,10 @@ Status: Questing for Dream Game...
       </p>
     </td>
     <td align="center" width="33%">
-      <h4>2D & Design</h4>
+      <h4>Pixel & 2D</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=ai,ps" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" alt="Aseprite" height="40" />
       </p>
     </td>
   </tr>
@@ -119,7 +120,7 @@ Status: Questing for Dream Game...
     <td align="center" width="33%">
       <h4>Collaboration &amp; Docs</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=discord,notion,obsidian,markdown" />
+        <img src="https://skillicons.dev/icons?i=discord,notion,obsidian" />
       </p>
     </td>
     <td align="center" width="33%">
