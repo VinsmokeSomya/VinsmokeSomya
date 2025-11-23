@@ -113,7 +113,7 @@ Status: Questing for Dream Game...
     <td align="center" width="33%">
       <h4>IDEs</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider" />
       </p>
     </td>
     <td align="center" width="33%">
