@@ -103,10 +103,10 @@ Status: Questing for Dream Game...
     <td align="center" width="33%">
       <h4>VFX & Simulation</h4>
       <p>
-        <img src="https://jangafx.com/media/images/logos/embergen.svg" alt="EmberGen" height="40" />
-        <img src="https://jangafx.com/media/images/logos/liquigen.svg" alt="LiquiGen" height="40" />
-        <img src="https://jangafx.com/media/images/logos/illugen.svg" alt="IlluGen" height="40" />
-        <img src="https://jangafx.com/media/images/logos/geogen.svg" alt="GeoGen" height="40" />
+        <img src="https://jangafx.com/media/images/logos/embergen.svg" alt="EmberGen" height="50" />
+        <img src="https://jangafx.com/media/images/logos/liquigen.svg" alt="LiquiGen" height="50" />
+        <img src="https://jangafx.com/media/images/logos/illugen.svg" alt="IlluGen" height="50" />
+        <img src="https://jangafx.com/media/images/logos/geogen.svg" alt="GeoGen" height="50" />
       </p>
     </td>
   </tr>
